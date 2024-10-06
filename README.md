@@ -2,6 +2,8 @@
 
 open source external that is still in development written in c to teach people about how these externals work.
 
+***NOTE: I KINDA QUIT THIS SHIT LMFAO SO UHH YA***
+
 # how does it work?
 
 overwriting roblox script module bytecode with our new data + the original bytecode that already existed to get script execution
