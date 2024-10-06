@@ -1,0 +1,9 @@
+﻿  atlantic.cpp
+C:\Users\ourko\source\repos\atlantic\atlantic\atlantic.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  atlantic.vcxproj -> C:\Users\ourko\source\repos\atlantic\x64\Release\atlantic.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,3 @@
+﻿  atlantic.cpp
+C:\Users\ourko\source\repos\atlantic\atlantic\atlantic.cpp(5,10): error C2039: 'cout': is not a member of 'std'
+C:\Users\ourko\source\repos\atlantic\atlantic\atlantic.cpp(5,10): error C2065: 'cout': undeclared identifier
